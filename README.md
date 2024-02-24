@@ -1,1 +1,5 @@
-# Video_Marketting
+Created creative and explainer videos for Gym services and benefits. Identified key messaging and visual elements that align with brand voice and target audience. Used animated graphics, voiceover narration, and background music to enhance the video's impact. Explained all the services engagingly for the user, and made it visually appealing.
+
+Created Mom's Bakery animated video on Animaker, using animated characters, and voiceover. To make it more engaging for users, used a visually appealing background, and also added subtitles so that users could understand their conversation. Matched subtitles and voice pace to make it look more attractive.
+
+Also created a promotional video for Chai Point, a local tea shop, using Biteable. The video showcased Chai Point's products and services in an engaging and informative way. Identified key messaging and visual elements that aligned with Chai Point's brand voice and targeted audience. Used high-quality visuals, music, and sound effects to enhance the video's impact.
